@@ -22,7 +22,7 @@
     "js-base64": "^3.7.2",
     "react": "latest",
     "react-dom": "latest",
-    "react-i18next": "^11.16.2",
+    "react-i18next": "^15.5.3",
     "react-infinite-scroll-component": "^6.1.0",
     "react-router-dom": "^6.2.2",
     "react-scripts": "^5.0.0",
